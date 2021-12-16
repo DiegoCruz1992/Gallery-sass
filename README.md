@@ -22,7 +22,6 @@ Projeto
 ### 🚀 TECNOLOGIAS
 <hr>
 - HTML5<br>
-- CSS3<br>
 - SASS<br>
 
 ### 💻 PROJETO
